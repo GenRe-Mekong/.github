@@ -10,7 +10,7 @@
 [More about the project](https://genremekong.org/genre-mekong-project)
 
 
-## Citation
+## How to cite
 If you use the __data__ and __tools__ from GenRe-Mekong project in publications, please cite :
 
 `Jacob CG, Thuy-Nhien N, Mayxay M, et al. Genetic surveillance in the Greater Mekong subregion and South Asia to support malaria control and elimination. Elife. 2021;10:e62997. Published 2021 Aug 10. doi:10.7554/eLife.62997`
