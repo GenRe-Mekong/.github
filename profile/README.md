@@ -1,6 +1,8 @@
 ## Hi there 👋
 - 🧬 GenRe-Mekong is a malaria genetic surveillance project that provides timely data to support malaria elimination efforts in the Greater Mekong Subregion.
+  
 - 🤝 We support National Malaria Control Programmes and malaria research community through sharing of data, tools and knowledge
+  
 - 💛 The project is funded by
   - The Bill & Melinda Gates Foundation
   - The Global Fund to Fight AIDS, Tuberculosis and Malaria
