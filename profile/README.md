@@ -4,7 +4,7 @@
 - 🤝 We support National Malaria Control Programmes and malaria research community through sharing of data, tools and knowledge
   
 - 💛 The project is funded by
-  - The Bill & Melinda Gates Foundation
+  - Gates Foundation
   - The Global Fund to Fight AIDS, Tuberculosis and Malaria
 
 [More about the project](https://genremekong.org/genre-mekong-project)
